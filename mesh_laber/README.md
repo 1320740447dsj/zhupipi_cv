@@ -43,6 +43,6 @@
 - **S键**：显示/隐藏标签ID号码
 - **L键**：开启/关闭网格线框显示模式
 
-
+![show.png](./show.png)
 
 参考：https://github.com/Tai-Hsien/Mesh_Labeler
